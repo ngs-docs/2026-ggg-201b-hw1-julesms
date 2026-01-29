@@ -1,0 +1,82 @@
+Variants shared between 2 or more samples: 
+ecoli_1329520_T/G found in SRR2584403_1 and SRR2584404_1
+ecoli_4141016_C/A found in SRR2584403_1 and SRR2584404_1
+
+Standout variants:
+It is possible that these 2 variants indicate that these samples are related in some aspect, or the impact= modifier status is underestimating the importance of the shared variants.
+My current understanding is that the rest of the variants do not appear to have significant biological impacts. 
+
+Variants in samples: 
+Sample      Variant Name      Location     Reference_Allele  Sample_Allele  Biological Impact
+SRR2584857_1
+            ecoli_920514_T/C	920514       T                 C             Little to none due to intergenic_variant status
+            ecoli_3931002_A/C	3931002	     A                 C          	 Little to none due to intergenic_variant status
+            ecoli_4141441_C/T	4141441	     C                 T	           Little to none due to intergenic_variant status
+            ecoli_4202391_T/G	4202391      T                 G	           Little to none due to intergenic_variant status
+            ecoli_4530779   4530778-4530779 CACCCTAACCCT  CACCCTAACCCTAACCCT Little to none due to intergenic_variant status
+SRR2584403_1
+            ecoli_1329520_T/G	1329520	     T                 G             Little to none due to intergenic_variant status
+            ecoli_4141016_C/A	4141016	     C                 A	           Little to none due to intergenic_variant status
+SRR2584404_1
+          ecoli_238917_G/T	  238917	     G                 T          	 Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_806310_ATT/AT	806310       ATT               AT	           Little to none due to intergenic_variant status
+          ecoli_1329520_T/G	  1329520	     T                 G	           Little to none due to intergenic_variant status
+          ecoli_4141016_C/A	  4141016	     C                 A	           Little to none due to intergenic_variant status
+SRR2584405_1
+          ecoli_15382_C/T	   15382	       C                 T	           Little to none due to intergenic_variant status
+          ecoli_154497_T/G	 154497	       T                 G	           Little to none due to intergenic_variant status
+          ecoli_254101_T/G	 254101	       T                 G	           Little to none due to intergenic_variant status
+          ecoli_649522_C/T	 649522	       C                 T          	 Little to none due to intergenic_variant status
+          ecoli_692265_C/T	 692265	       C                 T          	 Little to none due to intergenic_variant status
+          ecoli_692268_A/G	 692268	       A                 G          	 Little to none due to intergenic_variant status
+          ecoli_708118_T/C	 708118	       T                 C           	 Little to none due to intergenic_variant status
+          ecoli_1176010_T/G	 1176010	     T                 G          	 Little to none due to intergenic_variant status
+          ecoli_1503866_A/C	 1503866	     A                 C          	 Little to none due to intergenic_variant status
+          ecoli_1680445_A/T	 1680445	     A                 T          	 Little to none due to intergenic_variant status
+          ecoli_1680446_A/T	 1680446	     A                 T          	 Little to none due to intergenic_variant status
+          ecoli_1733754_A/T	 1733754	     A                 T          	 Little to none due to intergenic_variant status
+          ecoli_1996109_A/T	 1996109	     A                 T    	       Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_1996109_A/T	 1996109	     A                 T	           Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_1996109_A/T	 1996109	     A                 T	           Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_2000253_A/T	 2000253	     A                 T	           Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_2000253_A/T	 2000253	     A                 T	           Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_2000253_A/T	 2000253	     A                 T	           Little to none due to impact = modifier annotation, although upstream_gene_variant instead of intergenic
+          ecoli_2020126_C/G	 2020126	     C                 G	           Little to none due to intergenic_variant status
+          ecoli_2103919_ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG/ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG	 2103918-2103919	CCAG	 Little to none due to intergenic_variant status
+          ecoli_2296329_A/C	 2296329	     A                 C	          Little to none due to intergenic_variant status
+          ecoli_2330469_A/T	 2330469	     A                 T	          Little to none due to intergenic_variant status
+          ecoli_2330472_A/T	 2330472	     A                 T	          Little to none due to intergenic_variant status
+          ecoli_2416966_C/T	 2416966	     C                 T	          Little to none due to intergenic_variant status
+          ecoli_2671373_T/G	 2671373       T                 G	          Little to none due to intergenic_variant status
+          ecoli_2671376_C/A	 2671376	     C                 A	          Little to none due to intergenic_variant status
+          ecoli_2682710_G/C	 2682710	     G                 C	          Little to none due to intergenic_variant status
+          ecoli_2682764_C/T	 2682764	     C                 T	          Little to none due to intergenic_variant status
+          ecoli_3090762_C/A	 3090762	     C                 A	          Little to none due to intergenic_variant status
+          ecoli_3090763_T/G	 3090763	     T                 G	          Little to none due to intergenic_variant status
+          ecoli_3268057_T/C	 3268057	     T                 C	          Little to none due to intergenic_variant status
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T	 	        Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3351282_C/T	 3351282	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_3509753_T/C	 3509753	     T                 C	          Little to none due to intergenic_variant status
+          ecoli_3568506_T/G	 3568506	     T                 G         	  Little to none due to intergenic_variant status
+          ecoli_3762120_C/A	 3762120	     C                 A	          Little to none due to intergenic_variant status
+          ecoli_4029556_G/T	 4029556	     G                 T	          Little to none due to intergenic_variant status
+          ecoli_4029559_A/C	 4029559	     A                 C	          Little to none due to intergenic_variant status
+          ecoli_4192865_G/A	 4192865	     G                 A 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4192865_G/A	 4192865	     G                 A 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4192865_G/A	 4192865    	 G                 A 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4192865_G/A	 4192865	     G                 A 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4497049_T/G	 4497049	     T                 G	          Little to none due to intergenic_variant status
+          ecoli_4503866_T/C	 4503866	     T                 C	          Little to none due to intergenic_variant status
+          ecoli_4504217_G/A	 4504217	     G                 A	          Little to none due to intergenic_variant status
+          ecoli_4504253_G/A	 4504253	     G                 A	          Little to none due to intergenic_variant status
+          ecoli_4505396_T/C	 4505396	     T                 C	          Little to none due to intergenic_variant status
+          ecoli_4505407_G/A	 4505407	     G                 A	          Little to none due to intergenic_variant status
+          ecoli_4506070_A/T	 4506070	     A                 T	          Little to none due to intergenic_variant status
+          ecoli_4593578_C/T	 4593578	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4593578_C/T	 4593578	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
+          ecoli_4593578_C/T	 4593578	     C                 T 	          Little to none due to impact = modifier annotation, although downstream_gene_variant instead of intergenic
